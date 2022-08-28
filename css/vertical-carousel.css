@@ -1,0 +1,56 @@
+/**
+ * User: Alessandro Battaglia
+ * Date: 17/05/2022
+ * Time: 15:24
+ */
+
+.vertical.carousel .carousel-item {
+    overflow: hidden;
+}
+
+.vertical.carousel .carousel-item-next:not(.carousel-item-start),
+.vertical.carousel .active.carousel-item-end {
+    transform: translateY(100%);
+}
+
+.vertical.carousel .carousel-item-prev:not(.carousel-item-end),
+.vertical.carousel .active.carousel-item-start {
+    transform: translateY(-100%);
+    color: #fff;
+}
+
+.carousel-indicators {
+  
+    display: none;
+}
+.carousel-control-next-icon {
+    background-image: none;
+}
+
+.carousel-control-next {
+    left: 20px;
+    font-size: 25px;
+    top: 1px;
+}
+button.carousel-control-prev {
+    font-size: 25px;
+    left: -18px;
+}
+.carousel_control {
+    position: absolute;
+    bottom: 15px;
+    left: 108px;
+    background: #fff;
+    width: 0;
+    padding: 26px 42px;
+    text-align: center;
+    display: block;
+    opacity: .8;
+}
+
+.carousel_control button {
+    width: 100%;
+  
+}
+
+

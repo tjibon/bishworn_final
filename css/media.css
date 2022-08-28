@@ -1,0 +1,621 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) { 
+ /* Header Menu Hide Media Css */
+
+
+    .header-top-logo {
+    display: none;
+    }
+
+    .hide{
+    
+        display:none!important;
+    }
+   
+    .currrency-area-form{
+        display: none;
+    }
+    .header-top-nav {
+        float: right;
+        border: none;
+    }
+
+    .header-main-logo {
+        margin-top: 0;
+    }
+    select.form-select.select-catagory {
+        
+        display: none;
+    }
+    .tv-logo {
+        display: inline-block;
+        margin-top: -20px;
+        margin-left: -17px;
+        margin-right: 0px;
+    }
+    .tv-logo img {
+        width: 41px !important;
+    }
+    .special-cata {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0 !important;
+    }
+    .inner-content {
+        height: 200px;
+      
+    }
+    .discount-offer {
+        margin-top: -66px;
+    }
+    .festiv-discount h2 {
+        font-size: 20px;
+    }
+    .festiv-discount h3 {
+        font-size: 32px;
+        
+    
+    }
+    .festiv-discount h4 {
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+    .discount-circle {
+        width: 110px;
+        height: 110px;
+        padding: 13px;
+        margin-left: 0;
+    }
+    .discount-circle h3 {
+       
+        font-size: 19px;
+       
+        margin: 0 0;
+    }
+    .discount-circle h2 {
+      
+        font-size: 40px;
+       
+    }
+    .discount-circle p {
+       
+        font-size: 12px;
+       
+    }
+    .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-discount-area {
+        margin-top: -37px;
+        margin-left: 38px;
+       
+    }
+    .carousel-3 .carousel-img {
+        position: absolute;
+        /* top: 0; */
+        width: 120px;
+        bottom: 0;
+        right: 0;
+    } 
+    h3.item-name {
+
+        font-size: 14px;
+        padding: 5px 3px;
+        margin: 0 0;
+    }
+    h5.item-price {
+        width: 48px;
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 18px;
+        
+    }
+
+    h5.item-price span {
+       
+        color: red;
+      
+        padding: 0px 7px;
+    }
+
+    .carousel-item.carouel_two .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-item.carouel_two .festiv-discount h2 {
+        font-size: 30px;
+    }
+    .carousel-item.carouel_two .festiv-discount h3 {
+        font-size: 30px;
+        margin: 2px 0;
+        transform: rotate(357deg);
+    }
+    .carouel_two .discount-circle {
+        
+        width: 106px;
+        height: 100px;
+    }
+    .carouel_two .discount-circle h2 {
+       
+        font-size: 26px;
+    }
+    .carousel-discount-area.slide_two {
+        top: -34px;
+    }
+    a.shoping-btn {
+        padding: 5px 10px;
+        margin-top: 5px;
+        font-size: 11px;
+    }
+        
+    h5.item-price span {
+      
+        color: red;
+      
+    }
+    .info-box-content h3 {
+        font-size: 15px;
+      
+    }
+    .info-box-content a {
+    
+        font-size: 11px;
+       
+    }
+    .nav-pills .tab-btn {
+        
+        margin-left: 2px;
+        padding: 5px;
+        font-weight: 600;
+    }
+    section.info {
+        
+        padding-bottom: 0px;
+    }
+    .single-brand-box {
+       
+        padding: 9px;
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: center;
+      
+    }
+    .footer-address {
+        text-align: center;
+        margin: 6px 0;
+    }
+
+}
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+/* Header Menu Hide Media Css */
+    
+
+
+.header-top-logo {
+    display: none;
+    }
+
+    .hide{
+    
+        display:none!important;
+    }
+   
+    .currrency-area-form{
+        display: none;
+    }
+    .header-top-nav {
+        float: right;
+        border: none;
+    }
+
+    .header-main-logo {
+        margin-top: 0;
+    }
+    select.form-select.select-catagory {
+        
+        display: none;
+    }
+    .tv-logo {
+        display: inline-block;
+        margin-top: -20px;
+        margin-left: -17px;
+        margin-right: 0px;
+    }
+    .tv-logo img {
+        width: 41px !important;
+    }
+    .special-cata {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0 !important;
+    }
+    .inner-content {
+        height: 200px;
+      
+    }
+    .discount-offer {
+        margin-top: -66px;
+    }
+    .festiv-discount h2 {
+        font-size: 20px;
+    }
+    .festiv-discount h3 {
+        font-size: 32px;
+        
+    
+    }
+    .festiv-discount h4 {
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+    .discount-circle {
+        width: 110px;
+        height: 110px;
+        padding: 13px;
+        margin-left: 0;
+    }
+    .discount-circle h3 {
+       
+        font-size: 19px;
+       
+        margin: 0 0;
+    }
+    .discount-circle h2 {
+      
+        font-size: 40px;
+       
+    }
+    .discount-circle p {
+       
+        font-size: 12px;
+       
+    }
+    .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-discount-area {
+        margin-top: -37px;
+        margin-left: 38px;
+       
+    }
+    h3.item-name {
+
+        font-size: 14px;
+        padding: 5px 3px;
+        margin: 0 0;
+    }
+    h5.item-price {
+        width: 48px;
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 18px;
+        
+    }
+
+    h5.item-price span {
+       
+        color: red;
+      
+        padding: 0px 7px;
+    }
+
+    .carousel-item.carouel_two .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-item.carouel_two .festiv-discount h2 {
+        font-size: 30px;
+    }
+    .carousel-item.carouel_two .festiv-discount h3 {
+        font-size: 30px;
+        margin: 2px 0;
+        transform: rotate(357deg);
+    }
+    .carouel_two .discount-circle {
+        
+        width: 106px;
+        height: 100px;
+    }
+    .carouel_two .discount-circle h2 {
+       
+        font-size: 26px;
+    }
+    .carousel-discount-area.slide_two {
+        top: -34px;
+    }
+    a.shoping-btn {
+        padding: 5px 10px;
+        margin-top: 5px;
+        font-size: 11px;
+    }
+        
+    h5.item-price span {
+      
+        color: red;
+      
+    }
+    .info-box-content h3 {
+        font-size: 15px;
+      
+    }
+    .info-box-content a {
+    
+        font-size: 11px;
+       
+    }
+    .nav-pills .tab-btn {
+        
+        margin-left: 2px;
+        padding: 5px;
+        font-weight: 600;
+    }
+    section.info {
+        
+        padding-bottom: 0px;
+    }
+    .single-brand-box {
+       
+        padding: 9px;
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: center;
+      
+    }
+    .footer-address {
+        text-align: center;
+        margin: 6px 0;
+    }
+
+
+
+
+
+
+ }
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/* Header Menu Hide Media Css */
+
+
+        
+
+.header-top-logo {
+    display: none;
+    }
+
+    .hide{
+    
+        display:none!important;
+    }
+   
+    .currrency-area-form{
+        display: none;
+    }
+    .header-top-nav {
+        float: right;
+        border: none;
+    }
+
+    .header-main-logo {
+        margin-top: 0;
+    }
+    select.form-select.select-catagory {
+        
+        display: none;
+    }
+    .tv-logo {
+        display: inline-block;
+        margin-top: -20px;
+        margin-left: -17px;
+        margin-right: 0px;
+    }
+    .tv-logo img {
+        width: 41px !important;
+    }
+    .special-cata {
+        display: none;
+    }
+    .navbar-toggler:focus {
+        text-decoration: none;
+        outline: 0;
+        box-shadow: 0 0 0 0 !important;
+    }
+    .inner-content {
+        height: 200px;
+      
+    }
+    .discount-offer {
+        margin-top: -66px;
+    }
+    .festiv-discount h2 {
+        font-size: 20px;
+    }
+    .festiv-discount h3 {
+        font-size: 32px;
+        
+    
+    }
+    .festiv-discount h4 {
+        font-size: 14px;
+        padding: 0px 5px;
+    }
+    .discount-circle {
+        width: 110px;
+        height: 110px;
+        padding: 13px;
+        margin-left: 0;
+    }
+    .discount-circle h3 {
+       
+        font-size: 19px;
+       
+        margin: 0 0;
+    }
+    .discount-circle h2 {
+      
+        font-size: 40px;
+       
+    }
+    .discount-circle p {
+       
+        font-size: 12px;
+       
+    }
+    .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-discount-area {
+        margin-top: -37px;
+        margin-left: 38px;
+       
+    }
+    h3.item-name {
+
+        font-size: 14px;
+        padding: 5px 3px;
+        margin: 0 0;
+    }
+    h5.item-price {
+        width: 48px;
+        font-size: 18px;
+        font-weight: 700;
+        margin-left: 18px;
+        
+    }
+
+    h5.item-price span {
+       
+        color: red;
+      
+        padding: 0px 7px;
+    }
+
+    .carousel-item.carouel_two .carousel-img.f_slider_img img {
+        height: 100%;
+    }
+    .carousel-item.carouel_two .festiv-discount h2 {
+        font-size: 30px;
+    }
+    .carousel-item.carouel_two .festiv-discount h3 {
+        font-size: 30px;
+        margin: 2px 0;
+        transform: rotate(357deg);
+    }
+    .carouel_two .discount-circle {
+        
+        width: 106px;
+        height: 100px;
+    }
+    .carouel_two .discount-circle h2 {
+       
+        font-size: 26px;
+    }
+    .carousel-discount-area.slide_two {
+        top: -34px;
+    }
+    a.shoping-btn {
+        padding: 5px 10px;
+        margin-top: 5px;
+        font-size: 11px;
+    }
+        
+    h5.item-price span {
+      
+        color: red;
+      
+    }
+    .info-box-content h3 {
+        font-size: 15px;
+      
+    }
+    .info-box-content a {
+    
+        font-size: 11px;
+       
+    }
+    .nav-pills .tab-btn {
+        
+        margin-left: 2px;
+        padding: 5px;
+        font-weight: 600;
+    }
+    section.info {
+        
+        padding-bottom: 0px;
+    }
+    .single-brand-box {
+       
+        padding: 9px;
+        width: 100%;
+    }
+    .footer-logo {
+        text-align: center;
+      
+    }
+    .footer-address {
+        text-align: center;
+        margin: 6px 0;
+    }
+
+
+
+
+
+ }
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+    .header-sociala-area {
+        margin-left: -21px;
+    }
+    .header-top-nav ul li a {
+       
+       
+        margin-right: 8px;
+        display: block;
+        padding: 4px;
+       
+    }
+    a.nav-link.special-cata-link {
+        
+    
+        padding: 16px 67px;
+        margin-right: 0px;
+        width: 183px;
+       
+        font-size: 12px;
+      
+        margin-left: 0;
+    }
+    li.nav-item.dropdown.special-cata i {
+        margin-left: -17px;
+    }
+ }
+
+/* X-Large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/* ===========Main Header Media Css Start */
+
+
+
+/* ===========Main Header Media Css end */
+
+}
+
+ /* XX-Large devices (larger desktops, 1400px and up) */
+@media (min-width: 1400px) { 
+/* ===========Main Header Media Css Start */
+
+/* ===========Main Header Media Css end */
+
+ }
